@@ -1,5 +1,0 @@
-#Tenemos la cadena en el sentido invertido
-cadena = "acitametaM ,5.8 ,otipeP ordeP"
-
-#Damos vuelta la cadena, con el comando que nos indica iterar en el sentido invertido
-cadena_volteada = cadena[::-1]
